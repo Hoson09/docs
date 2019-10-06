@@ -1,5 +1,5 @@
 module.exports = {
     base: '/docs/',
-    title: 'George‘s World',
+    title: 'World of George',
     description: 'Just playing around'
 }
